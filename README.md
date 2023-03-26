@@ -1,6 +1,10 @@
 # Project Name
 CevdFlow
 
+# Project Video
+https://www.linkedin.com/posts/suna-ayhan-184209190_creatiny-%C3%A7ukurova-ekibi-olarak-solana-hackathonuna-activity-7039184119330746368-s0Kj?utm_source=share&utm_medium=member_desktop
+
+
 # Description
 CevdFlow is a decentralized platform for managing freelance contracts and payments on the Solana blockchain. The platform provides a streamlined solution for creating, negotiating, and signing contracts, while also ensuring that payments are securely and automatically processed.
 
